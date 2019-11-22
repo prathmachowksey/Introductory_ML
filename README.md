@@ -1,4 +1,4 @@
-# introductory_ml
+# introductory-ml
 Introductory work undertaken by me in Machine Learning.
 
 References:
